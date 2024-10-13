@@ -1,4 +1,4 @@
-# Tomas Repcik - Code Snippets
+# Tomas Repcik - Repositories, Articles and apps
 
 During experimenting and programming I have written couple of articles and example app for:
 

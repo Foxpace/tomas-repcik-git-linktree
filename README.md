@@ -2,9 +2,9 @@
 
 During experimenting and programming I have written couple of articles and example app for:
 
-* Android
-* Flutter
-* Data Science
+* [Android](https://github.com/Foxpace/tomas-repcik-snippets?tab=readme-ov-file#android)
+* [Flutter](https://github.com/Foxpace/tomas-repcik-snippets/edit/main/README.md#flutter)
+* [Data Science](https://github.com/Foxpace/tomas-repcik-snippets/edit/main/README.md#data-science)
 * and others
 
 > This is list of all available repositories. All articles, code and portfolio can be found on: [https://tomasrepcik.dev/](https://tomasrepcik.dev/) OR [https://medium.com/@tomas-repcik](https://medium.com/@tomas-repcik)

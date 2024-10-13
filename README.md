@@ -40,7 +40,7 @@ During experimenting and programming I have written couple of articles and examp
 
 | Repository      | Articles |
 | ----------- | ----------- |
-| [BeSafeBox Research](https://github.com/Foxpace/BeSafeBox_research) and [Android app](https://github.com/Foxpace/BeSafeBox_Android_app) | [Medium article series about building Fall detection app](https://medium.com/@tomas-repcik/jetpack-compose-and-screen-transition-animations-b361fc8164cc) |
+| [BeSafeBox Research](https://github.com/Foxpace/BeSafeBox_research) and [Android app](https://github.com/Foxpace/BeSafeBox_Android_app) | [Medium article series about building Fall detection app](https://medium.com/@tomas-repcik/list/fall-detection-android-app-besafebox-51b711742fa2) |
 | [QRS complex Detectors - C++](https://github.com/Foxpace/Cpp_Ecg_Detectors) | Popular QRS complex detectors written in C++ |
 | [QRS complex Detectors - Kotlin](https://github.com/Foxpace/Kotlin-Ecg-Detectors) | Popular QRS complex detectors written in Kotlin |
 | [1D neural network visualisation tools](https://github.com/Foxpace/SignalScreen) | Visualisation of 1D neural network |

@@ -4,12 +4,12 @@ During experimenting and programming I have written couple of articles and examp
 
 * [Android](https://github.com/Foxpace/tomas-repcik-snippets?tab=readme-ov-file#android)
 * [Flutter](https://github.com/Foxpace/tomas-repcik-snippets/edit/main/README.md#flutter)
-* [Data Science](https://github.com/Foxpace/tomas-repcik-snippets/edit/main/README.md#data-science)
+* [Data Science](https://github.com/Foxpace/tomas-repcik-git-linktree#data-science)
 * and others
 
 > This is list of all available repositories. All articles, code and portfolio can be found on: [https://tomasrepcik.dev/](https://tomasrepcik.dev/) OR [https://medium.com/@tomas-repcik](https://medium.com/@tomas-repcik)
 
-## Android:
+## Android
 
 | Apps  | Articles |
 | ----------- | ----------- |
@@ -31,7 +31,7 @@ During experimenting and programming I have written couple of articles and examp
 
 
 
-## Flutter:
+## Flutter
 | Repository      | Articles |
 | ----------- | ----------- |
 | [ChatGPT Flutter clone](https://github.com/Foxpace/chatGPT-Flutter-clone) | Simple demonstration of Flutter with ChatGPT API |

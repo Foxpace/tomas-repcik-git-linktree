@@ -3,7 +3,7 @@
 During experimenting and programming I have written couple of articles and example app for:
 
 * [Android](https://github.com/Foxpace/tomas-repcik-snippets?tab=readme-ov-file#android)
-* [Flutter](https://github.com/Foxpace/tomas-repcik-snippets/edit/main/README.md#flutter)
+* [Flutter](https://github.com/Foxpace/tomas-repcik-git-linktree#fluter)
 * [Data Science](https://github.com/Foxpace/tomas-repcik-git-linktree#data-science)
 * and others
 

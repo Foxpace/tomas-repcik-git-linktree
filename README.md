@@ -20,7 +20,7 @@ During experimenting and programming I have written couple of articles and examp
 
 | Repository      | Articles |
 | ----------- | ----------- |
-| [Android ApplicationStart/ExitInfo](https://github.com/Foxpace/android-app-start-exit-info-example) | x |
+| [Android ApplicationStart/ExitInfo](https://github.com/Foxpace/android-app-start-exit-info-example) | [Medium article](https://proandroiddev.com/analyzing-app-startup-and-shutdown-in-android-15-new-update-7605369ae891) |
 | [Animated Navigation in Jetpack Compose](https://github.com/Foxpace/JetpackCompose-AnimatedNavigation) | [Medium article](https://medium.com/@tomas-repcik/jetpack-compose-and-screen-transition-animations-b361fc8164cc) |
 | [App Drawer in Jetpack Compose](https://github.com/Foxpace/JetpackCompose-AppDrawerExample) | [Medium article](https://medium.com/@tomas-repcik/material-3-navigation-drawer-with-android-jetpack-compose-eda9285f9f4c)        |
 | [Fused Orientation Api](https://github.com/Foxpace/MapView-FusedOrientationApi-Example)   | [Medium article](https://medium.com/proandroiddev/update-for-your-compass-new-android-orientation-api-dc4e5c25ca35)       |
